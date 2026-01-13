@@ -39,8 +39,6 @@ standing.png
 bullet.mp3
 hit.mp3
 music.mp3
-
-
 ## Run The Game 
 python game.py
 
