@@ -41,6 +41,11 @@ hit.mp3
 music.mp3
 
 
+## Run The Game 
+python game.py
+
+
+
 ## Project Structure
 /New folder
 │
